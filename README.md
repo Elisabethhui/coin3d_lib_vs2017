@@ -1,1 +1,1 @@
-# coined_binary_vs2017
+# coin3d library files for vs2017 
